@@ -27,3 +27,11 @@ The Self-Driving Car Engineer is an online certification intended to prepare stu
 •	Project 4 PID Controller: Implement a PID controller in C++ to maneuver the vehicle around a track.
 
 •	Project 5 Model Predictive Control: Implement Model Predictive Control to drive the car around the track.
+
+### Term 3: Sensor Fusion, Localization and Control (May 2017 to August 2017)
+
+•	Project 1: Path Planning Project: Build a path planner that creates smooth, safe trajectories for the car to follow. The highway track has other vehicles, all going different speeds, but approximately obeying the 50 MPH speed limit.
+
+•	Project 2: Elective Project: Semantic Segmentation: Label the pixels of a road in images using a Fully Convolutional Network (FCN).
+
+•	Project 3: Programming a Real Self-Driving Car: Implement core functionality of an autonomous vehicle system which enables a self-driving car to drive around a track.
