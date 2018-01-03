@@ -16,3 +16,14 @@ The Self-Driving Car Engineer is an online certification intended to prepare stu
 
 •	Project 5(Computer Vision):  Vehicle Detection (Computer Vision): Use of HOG and SVM to detect vehicles on a road
 
+### Term 2: Sensor Fusion, Localization and Control (May 2017 to August 2017)
+
+•	Project 1 Extended Kalman Filters:  Use a Kalman filter, lidar measurements and radar measurements to track the bicycle's position and velocity.
+
+•	Project 2 Unscented Kalman Filters: Implement an unscented Kalman filter using the CTRV motion model.
+
+•	Project 3 Kidnapped Vehicle: Localization project - Implement a 2 dimensional particle filter in C++.
+
+•	Project 4 PID Controller: Implement a PID controller in C++ to maneuver the vehicle around a track.
+
+•	Project 5 Model Predictive Control: Implement Model Predictive Control to drive the car around the track.
